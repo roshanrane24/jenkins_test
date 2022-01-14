@@ -2,4 +2,4 @@
 
 mkdir -p testdir
 
-cat "This is jenkins build test" > testdir/logfile
+echo "This is jenkins build test" > testdir/logfile
